@@ -50,6 +50,7 @@
 | Cursos | Certificados |
 |----------------------|-------------|
 | Lógica de Programação | [Certificado](https://hermes.dio.me/certificates/2KOSR0OZ.pdf) |
+| Fundamentos IA & Automações | [Certificado](https://jryzdnlyrjotdbdyvvxi.supabase.co/storage/v1/object/sign/prod/organization/32f2ee6f-9901-4cdf-aa29-2e4b45fc1ba9/certificates/67c07063-f0d5-42fd-81ae-bd3c783ca355?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9mNThiMWMzZC00Mzk5LTQyZTItYWRlZC05ODUxNGI1YzkwYWUiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwcm9kL29yZ2FuaXphdGlvbi8zMmYyZWU2Zi05OTAxLTRjZGYtYWEyOS0yZTRiNDVmYzFiYTkvY2VydGlmaWNhdGVzLzY3YzA3MDYzLWYwZDUtNDJmZC04MWFlLWJkM2M3ODNjYTM1NSIsImlhdCI6MTc3Mzc2MDA5NSwiZXhwIjoxNzczNzYzNjk1fQ.qRvfTRQUa9QWho_tjwnjj9QfIQ1mPtCUZlWW2L-31tY) |
 
 ---
 
