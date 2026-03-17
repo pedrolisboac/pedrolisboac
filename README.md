@@ -9,6 +9,7 @@
 - 🧠 Experiência com agentes de IA, workflows automatizados e integrações entre sistemas
 - 🎓 Estudante de Engenharia de Software (4/8)
 - 📪 Contato: pedroliscosmo27@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/pedrolisboacc/
 
 ---
 
